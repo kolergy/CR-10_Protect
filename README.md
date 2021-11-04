@@ -6,4 +6,4 @@ DHT-22 temp & humidity sensor In and Out
 MQ-2 sensor for smoque detection
 controlled by a ESP8266
 
-Designed in the Fablab Artilect
+Designed in the Fablab Artilect https://artilect.fr/
